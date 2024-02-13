@@ -1,2 +1,2 @@
-# contracts
-Contracts of BlastFur
+# BlastFur Contracts
+Contracts of BlastFur.
